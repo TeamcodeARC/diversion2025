@@ -44,7 +44,7 @@
 - **Frontend**: React + Vite with TypeScript
 - **Styling**: Tailwind CSS
 - **Charts**: Recharts for data visualization
-- **AI**: Google Gemini 1.5 Flash
+- **AI**: Google Gemini 1.5 Flash & Custom trained ML models
 - **Database**: Supabase
 - **Animation**: Framer Motion
 
