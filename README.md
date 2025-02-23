@@ -3,7 +3,7 @@
 ## 🌟 Unique Selling Propositions (USP)
 
 1. **Real-time AI-Powered Grid Management**
-   - Leverages Google's Gemini 1.5 Flash for instant insights
+   - Leverages Google's Gemini 1.5 Flash and custom ml models for instant insights
    - Predictive analytics for load balancing and efficiency optimization
    - Real-time weather impact analysis on renewable energy sources
 
@@ -96,10 +96,4 @@ The system includes sample data demonstrating:
 - Weather impacts
 - AI-generated insights
 
-## 🏆 Why We Should Win
-
-1. **Innovation**: Unique integration of AI with power grid management
-2. **Impact**: Potential for significant energy optimization and cost savings
-3. **Scalability**: Ready for real-world implementation
-4. **Sustainability**: Focus on renewable energy and efficiency
-5. **Technical Excellence**: Modern tech stack with real-time capabilities
+Made by **Team codeARC** - *Chirag Nahata, Snigdha Ghosh, Srijita Saha and Somyadip Ghosh*
